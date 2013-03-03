@@ -1,4 +1,4 @@
-# GitHub for Mac Puppet Module for Boxen
+# SourceTree Puppet Module for Boxen
 
 Install [SourceTree](http://www.sourcetreeapp.com/), a free Mac client for Git And Mercurial version control systems.
 
