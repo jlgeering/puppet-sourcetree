@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jlgeering/puppet-sourcetree.png)](https://travis-ci.org/jlgeering/puppet-sourcetree)
+
 # SourceTree Puppet Module for Boxen
 
 Install [SourceTree](http://www.sourcetreeapp.com/), a free Mac client for Git And Mercurial version control systems.
