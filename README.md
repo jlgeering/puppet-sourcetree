@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jlgeering/puppet-sourcetree.png)](https://travis-ci.org/jlgeering/puppet-sourcetree)
+[![Build Status](https://travis-ci.org/boxen/puppet-sourcetree.png)](https://travis-ci.org/boxen/puppet-sourcetree)
 
 # SourceTree Puppet Module for Boxen
 
